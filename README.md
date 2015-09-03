@@ -17,4 +17,10 @@
 <li><a href="https://fonticons.com/sets">Fonticons</a></li>
 </ul>
 
+<h4>Designers</h4>
+<h5>UI Designer</h5>
+<ul>
+<li><a href="https://dribbble.com/kerem">Kerem Seuer</a></li>
+</ul>
+
 
