@@ -3,18 +3,18 @@
 <p></p>
 
 <h4>Icons</h4>
-<ol>
+<ul>
 <li><a href="https://fonticons.com/sets">Fonticons</a></li>
-</ol>
+</ul>
 
 <h4>Fonts</h4>
-<ol>
+<ul>
 <li><a href="https://fonticons.com/sets">Fonticons</a></li>
-</ol>
+</ul>
 
 <h4>Inspiration</h4>
-<ol>
+<ul>
 <li><a href="https://fonticons.com/sets">Fonticons</a></li>
-</ol>
+</ul>
 
 
