@@ -9,7 +9,7 @@
 
 <h4>Fonts</h4>
 <ul>
-<li><a href="https://fonticons.com/sets">Fonticons</a></li>
+<li><a href="https://www.typewolf.com">Typewolf</a></li>
 </ul>
 
 <h4>Inspiration</h4>
