@@ -13,12 +13,13 @@
 </ul>
 
 <h4>Inspiration</h4>
+<h6>Wesbites</h6>
 <ul>
-<li><a href="https://fonticons.com/sets">Fonticons</a></li>
+<li><a href="http://christopherireland.net/motion/canon-light-awards">Christopher Ireland (motion and photographer)</a></li>
 </ul>
 
 <h4>Designers</h4>
-<h5>UI Designer</h5>
+<h6>UI Designer</h6>
 <ul>
 <li><a href="https://dribbble.com/kerem">Kerem Seuer</a></li>
 </ul>
