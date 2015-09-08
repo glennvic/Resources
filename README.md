@@ -9,9 +9,16 @@
 </ul>
 
 <h4>Fonts</h4>
+<h6>Resources</h6>
 <ul>
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
 </ul>
+<h6>Resources</h6>
+<li><a href="https://www.typewolf.com">Mark</a></li>
+<li>Mark</li>
+<li>Neutraface text</li>
+
+
 
 <h4>Inspiration</h4>
 <h6>Wesbites</h6>
