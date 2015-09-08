@@ -13,8 +13,7 @@
 <ul>
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
 </ul>
-<h6>Fonts</h6>
-<li><a href="https://www.typewolf.com">Mark</a></li>
+<h6>Awesome Fonts</h6>
 <li>Mark</li>
 <li>Neutraface text</li>
 
