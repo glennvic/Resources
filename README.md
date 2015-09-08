@@ -5,6 +5,7 @@
 <h4>Icons</h4>
 <ul>
 <li><a href="https://fonticons.com/sets">Fonticons</a></li>
+<li><a href="http://www.iconsfeed.com">Iconsfeed. (appstore icons)</a></li>
 </ul>
 
 <h4>Fonts</h4>
