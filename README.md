@@ -18,13 +18,14 @@
 <li>Neutraface text</li>
 
 
-
 <h4>Inspiration</h4>
 <h6>Wesbites</h6>
 <ul>
 <li><a href="http://christopherireland.net/motion/canon-light-awards">Christopher Ireland (motion and photographer)</a></li>
 <li><a href="http://www.sylvainreucherand.fr">sylvain reucherand (interactive developer)</a></li>
 <li><a href="http://www.eginstill.com">Egenstill (company website by Buildinamsterdam) </a></li>
+<li><a href="http://www.amy-movie.com/triumph"> Amy winehouse movie site </a></li>
+
 </ul>
 
 <h4>Designers</h4>
