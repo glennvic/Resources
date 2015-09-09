@@ -16,7 +16,7 @@
 <h6>Awesome Fonts</h6>
 <li>Mark</li>
 <li>Neutraface text</li>
-
+<li>GT Walsheim</li>
 
 <h4>Inspiration</h4>
 <h6>Wesbites</h6>
