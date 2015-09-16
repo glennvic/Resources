@@ -17,6 +17,7 @@
 <li>Mark</li>
 <li>Neutraface text</li>
 <li>GT Walsheim</li>
+<li>Larsseit</li>
 
 <h4>Inspiration</h4>
 <h6>Websites</h6>
