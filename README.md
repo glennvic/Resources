@@ -25,6 +25,9 @@
 <li><a href="http://www.sylvainreucherand.fr">sylvain reucherand (interactive developer)</a></li>
 <li><a href="http://www.eginstill.com">Egenstill (company website by Buildinamsterdam) </a></li>
 <li><a href="http://www.amy-movie.com/triumph"> Amy winehouse movie site </a></li>
+<li><a href="http://www.signesduquotidien.org/a-propos/
+">signesduquotidien.org</a></li>
+
 
 </ul>
 <h4>Designers</h4>
