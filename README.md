@@ -28,6 +28,9 @@
 <li><a href="http://www.amy-movie.com/triumph"> Amy winehouse movie site </a></li>
 <li><a href="http://www.signesduquotidien.org/a-propos/
 ">signesduquotidien.org</a></li>
+<li><a href="https://www.kineticsuper.com.au/personal
+"> kineticsuper (vette homepagina) </a></li>
+
 
 
 </ul>
