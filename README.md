@@ -33,13 +33,17 @@
 <li><a href="https://www.iffr.com/
 "> International Film Festival Rotterdam </a></li>
 
-
-
 </ul>
 <h4>Designers</h4>
 <h6>UI Designer</h6>
 <ul>
 <li><a href="https://dribbble.com/kerem">Kerem Seuer</a></li>
+</ul>
+
+</ul>
+<h4>Artists</h4>
+<ul>
+<li><a href="http://yukari-art.jp/en/shintaro_ohata_en">Shintaro Ohata</a></li>
 </ul>
 
 </ul>
@@ -49,4 +53,6 @@
 <li><a href="https://www.kickstarter.com/projects/whitestonemusic/this-is-what-music-will-look-like-in-the-future">Whitestone (the first interactive music platform)</a></li>
 </ul>
 
+Shintaro Ohata
+Nicholas Jolly
 
