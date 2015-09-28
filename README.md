@@ -14,10 +14,42 @@
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
 </ul>
 <h6>Awesome Fonts</h6>
+<h4>Sans-serif</h4>
 <li>Mark</li>
 <li>Neutraface text</li>
 <li>GT Walsheim</li>
 <li>Larsseit</li>
+<li>Adelle</li>
+<li>Akkurat</li>
+<li>Akzidenz-grotesk </li>
+<li>Apercu</li>
+<li>Avenir Next (LT STD)</li>
+<li>Brandon Grotesque</li>
+<li>Frutiger LT STD</li>
+<li>Futura</li>
+<li>Gotham</li>
+<li>GT Walsheim</li>
+<li>Helvetica (LT STD)</li>
+<li>Lato</li>
+<li>Mark Pro</li>
+<li>Montserrat</li>
+<li>Museo</li>
+<li>Open sans</li>
+<li>Proxima Nova</li>
+<li>Ubuntu</li>
+<li><b>Univers</b></li>
+
+
+<h4>Serif</h4>
+<li>Amasis</li>
+<li>Baskerville MT STD</li>
+<li>Amasis</li>
+<li>Bodoni STD</li>
+<li>Garamond (premier pro)</li>
+<li>Roboto Slab</li>
+<li>Times LT STD</li>
+<li>Vollkorn</li>
+
 
 <h4>Inspiration</h4>
 <h6>Websites</h6>
