@@ -67,6 +67,12 @@
 "> International Film Festival Rotterdam </a></li>
 
 </ul>
+
+<h4>Companies</h4>
+<ul>
+<li><a href="http://www.ueno.co">UENO</a></li>
+</ul>
+
 <h4>Designers</h4>
 <h6>UI Designer</h6>
 <ul>
