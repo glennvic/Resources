@@ -12,6 +12,7 @@
 <h6>Resources</h6>
 <ul>
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
+<li><a href="https://dribbble.com/ruslanlatypov"> Ruslanlatypov (mockups) </a></li>
 </ul>
 <h6>Awesome Fonts</h6>
 <h4>Sans-serif</h4>
