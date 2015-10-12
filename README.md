@@ -65,6 +65,9 @@
 "> kineticsuper (vette homepagina) </a></li>
 <li><a href="https://www.iffr.com/
 "> International Film Festival Rotterdam </a></li>
+<li><a href="http://inspirationvoyage.hellotrip.frhttp://inspirationvoyage.hellotrip.fr
+"> Inspiration Voyage</a></li>
+
 
 </ul>
 
