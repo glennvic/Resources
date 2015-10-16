@@ -68,6 +68,7 @@
 <li><a href="http://inspirationvoyage.hellotrip.frhttp://inspirationvoyage.hellotrip.fr
 "> Inspiration Voyage</a></li>
 <li><a href="https://www.sweetpunk.com"> Sweet punk</a></li>
+<li><a href="http://earth2045.com"> Earth2045</a></li>
 
 </ul>
 
