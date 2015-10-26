@@ -15,6 +15,8 @@
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
 <li><a href="https://dribbble.com/ruslanlatypov"> Ruslanlatypov (mockups) </a></li>
 </ul>
+<li><a href="http://webfieldmanual.com"> Webfieldmanual (all sorts)</a></li>
+</ul>
 <h6>Awesome Fonts</h6>
 <h4>Sans-serif</h4>
 <li>Mark</li>
