@@ -102,3 +102,8 @@
 Shintaro Ohata
 Nicholas Jolly
 
+</ul>
+<h4>Tools</h4>
+<ul>
+<li><a href="http://colorhunt.co/popular">Color hunt (daily color palettes)</a></li>
+</ul>
