@@ -106,4 +106,14 @@ Nicholas Jolly
 <h4>Tools</h4>
 <ul>
 <li><a href="http://colorhunt.co/popular">Color hunt (daily color palettes)</a></li>
+
+</ul>
+<h4>Talks</h4>
+<h6>Platforms</h6>
+<ul>
+<li><a href="https://uideo.net">uideo</a></li>
+</ul>
+<h6>Talks</h6>
+<ul>
+<li><a href=""></a></li>
 </ul>
