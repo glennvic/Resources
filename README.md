@@ -117,3 +117,15 @@ Nicholas Jolly
 <ul>
 <li><a href=""></a></li>
 </ul>
+
+</ul>
+<h4>Hackaton</h4>
+<ul>
+<li><a href="https://uideo.net">uideo</a></li>
+</ul>
+<ul>
+<li><a href="http://www.iiaw.nl/iiaw/">Innovation in a week (Oktober) </a></li>
+</ul>
+<ul>
+<li><a href="http://fusehack.com/">Fusehack (November) </a></li>
+</ul>
