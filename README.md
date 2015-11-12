@@ -91,6 +91,10 @@
 <ul>
 <li><a href="http://yukari-art.jp/en/shintaro_ohata_en">Shintaro Ohata</a></li>
 </ul>
+<ul>
+<li><a href="http://www.signalnoise.com">James White</a></li>
+</ul>
+
 
 </ul>
 <h4>Projects</h4>
