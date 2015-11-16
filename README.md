@@ -139,7 +139,10 @@ http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campai
 <li><a href="https://uideo.net">uideo</a></li>
 <li><a href="http://www.iiaw.nl/iiaw/">Innovation in a week (Oktober) </a></li>
 <li><a href="http://fusehack.com/">Fusehack (November) </a></li>
+<li><a href="http://www.scribd.com/doc/243410656/Permanent-Beta-Kennisdeeltjesversneller-voor-sociale-innovaties"> Permanent beta</a></li>
 </ul>
+
+
 <h4>Conferences</h4>
 <ul>
 <li><a href="http://www.skillcity.nl/agenda/5888-innovation-circle-71/">Skillcity (organisatie omtrent ICT bedrijven) </a></li>
