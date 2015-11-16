@@ -122,14 +122,22 @@ Nicholas Jolly
 <li><a href=""></a></li>
 </ul>
 
-</ul>
-<h4>Hackaton</h4>
+<h4>Books</h4>
+<li><a href="
+http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campaign=acquisition_studio">Studio UXPIN (boeken enzo!)</a></li>
+
+
+
+
+<h4>Meetups</h4>
+<h6>Hackaton</h6>
 <ul>
 <li><a href="https://uideo.net">uideo</a></li>
-</ul>
-<ul>
 <li><a href="http://www.iiaw.nl/iiaw/">Innovation in a week (Oktober) </a></li>
-</ul>
-<ul>
 <li><a href="http://fusehack.com/">Fusehack (November) </a></li>
 </ul>
+<h4>Conferences</h4>
+<ul>
+<li><a href="http://www.skillcity.nl/agenda/5888-innovation-circle-71/">Skillcity (organisatie omtrent ICT bedrijven) </a></li>
+</ul>
+
