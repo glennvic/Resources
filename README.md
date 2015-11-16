@@ -17,8 +17,8 @@
 </ul>
 <li><a href="http://webfieldmanual.com"> Webfieldmanual (all sorts)</a></li>
 </ul>
-<h6>Awesome Fonts</h6>
-<h4>Sans-serif</h4>
+<h5>Awesome Fonts</h5>
+<h6>Sans-serif</h6>
 <li>Mark</li>
 <li>Neutraface text</li>
 <li>GT Walsheim</li>
@@ -44,7 +44,7 @@
 <li><b>Univers</b></li>
 
 
-<h4>Serif</h4>
+<h6>Serif</h6>
 <li>Amasis</li>
 <li>Baskerville MT STD</li>
 <li>Amasis</li>
@@ -78,7 +78,11 @@
 <h4>Companies</h4>
 <ul>
 <li><a href="http://www.ueno.co">UENO</a></li>
+<li><a href="http://fantasy.co/legacy/google-ramayana/">Fantasy Interactive</a></li>
+<li><a href="http://www.dogstudio.be/contact">Dog Belgium</a></li>
 </ul>
+
+http://www.dogstudio.be/contact
 
 <h4>Designers</h4>
 <h6>UI Designer</h6>
