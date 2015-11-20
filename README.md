@@ -82,9 +82,10 @@
 <li><a href="http://www.ueno.co">UENO</a></li>
 <li><a href="http://fantasy.co/legacy/google-ramayana/">Fantasy Interactive</a></li>
 <li><a href="http://www.dogstudio.be/contact">Dog Belgium</a></li>
+<li><a href="http://domanistudios.com/work/">domainastudios</a></li>
+
 </ul>
 
-http://www.dogstudio.be/contact
 
 <h4>Designers</h4>
 <h6>UI Designer</h6>
