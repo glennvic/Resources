@@ -119,14 +119,14 @@ Nicholas Jolly
 <li><a href="http://colorhunt.co/popular">Color hunt (daily color palettes)</a></li>
 
 </ul>
-<h4>Talks</h4>
+<h4>Talks and Videos</h4>
 <h6>Platforms</h6>
 <ul>
 <li><a href="https://uideo.net">uideo</a></li>
 </ul>
 <h6>Talks</h6>
 <ul>
-<li><a href=""></a></li>
+<li><a href="https://www.youtube.com/watch?v=3X6SdMRag-Y"> A brief bief</a></li>
 </ul>
 
 <h4>Books</h4>
