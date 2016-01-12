@@ -129,6 +129,7 @@ Nicholas Jolly
 <h6>Talks</h6>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=3X6SdMRag-Y"> A brief bief</a></li>
+<li><a href="https://www.youtube.com/watch?v=Qby0ed4aVpo"> John Cleese on creativity</a></li>
 </ul>
 
 <h4>Books</h4>
