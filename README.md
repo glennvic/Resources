@@ -134,6 +134,8 @@ Nicholas Jolly
 <ul>
 <li><a href="https://www.youtube.com/watch?v=3X6SdMRag-Y"> A brief bief</a></li>
 <li><a href="https://www.youtube.com/watch?v=Qby0ed4aVpo"> John Cleese on creativity</a></li>
+<li><a href="http://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness"> Robert Waldinger, what makes a good life</a></li>
+
 </ul>
 
 <h4>Books</h4>
