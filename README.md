@@ -75,6 +75,16 @@
 <li><a href="http://bartaile.com"> Bartaile</a></li>
 <li><a href="http://www.kinetura.com/products/detail/new-york"> Kinetura</a></li>
 <li><a href="https://discovery.wisc.edu/about"> Discovery Building/a></li>
+https://niice.co/?search=https://niice.co/?search=
+http://designspiration.net/http://designspiration.net/
+https://nl.pinterest.com/https://nl.pinterest.com/
+http://creativity-online.com/http://creativity-online.com/
+http://codepen.io/http://codepen.io/
+http://ffffound.com/http://ffffound.com/
+http://lookslikegooddesign.com/http://lookslikegooddesign.com/
+https://www.nowness.com/https://www.nowness.com/
+http://99u.com/http://99u.com/
+
 
 
 
