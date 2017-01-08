@@ -29,15 +29,18 @@
 <li>Apercu</li>
 <li>Avenir Next (LT STD)</li>
 <li>Brandon Grotesque</li>
+<li>Caslon</li>
 <li>Frutiger LT STD</li>
 <li>Futura</li>
 <li>Gotham</li>
+<li>Graphik</li>
 <li>GT Walsheim</li>
 <li>Helvetica (LT STD)</li>
 <li>Lato</li>
 <li>Mark Pro</li>
 <li>Montserrat</li>
 <li>Museo</li>
+<li>Neutratext</li>
 <li>Open sans</li>
 <li>Proxima Nova</li>
 <li>Ubuntu</li>
