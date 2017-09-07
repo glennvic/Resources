@@ -59,6 +59,38 @@
 
 
 <h3>Inspiration</h3>
+<h3>Companies</h3>
+<ul>
+<li><a href="http://www.ueno.co">UENO</a></li>
+<li><a href="http://fantasy.co/legacy/google-ramayana/">Fantasy Interactive</a></li>
+<li><a href="http://www.dogstudio.be/contact">Dog Belgium</a></li>
+<li><a href="http://domanistudios.com/work/">domainastudios</a></li>
+<li><a href="http://sfcd.com">SFCD (super vette website) </a></li>
+<li><a href="http://www.wearecollins.com/work/">Brian Collin's agency </a></li>
+<li><a href="http://pollenlondon.com/interactive-web-design">Pollen London</a></li>
+<li><a href="http://www.buildinamsterdam.com/">Buildinamsterdam</a></li>
+<li><a href="https://www.ideo.com/eu">Ideo</a></li>
+<li><a href="http://studiojq.co/">StudioJQ</a></li>
+<li><a href="https://www.fabrique.nl/">Fabrique</a></li>
+<li><a href="https://www.awwwards.com/resn/">Resn</a></li>
+<li><a href="https://yummygum.com/">Yummygum</a></li>
+<li><a href="http://tribalworldwide.com/portfolio/">Tribal ddb</a></li>
+<li><a href="http://tribalworldwide.com/portfolio/">Tribal ddb</a></li>
+</ul>
+
+<h3>Designers</h3>
+<h6>UI Designer</h6>
+<ul>
+<li><a href="https://dribbble.com/kerem">Kerem Seuer</a></li>
+</ul>
+
+
+<h3>Artists</h3>
+<ul>
+<li><a href="http://yukari-art.jp/en/shintaro_ohata_en">Shintaro Ohata</a></li>
+<li><a href="http://www.signalnoise.com">James White</a></li>
+</ul>
+
 <h6>Websites</h6>
 <ul>
 <li><a href="http://christopherireland.net/motion/canon-light-awards">Christopher Ireland (motion and photographer)</a></li>
@@ -87,39 +119,10 @@ http://ffffound.com/http://ffffound.com/
 http://lookslikegooddesign.com/http://lookslikegooddesign.com/
 https://www.nowness.com/https://www.nowness.com/
 http://99u.com/http://99u.com/
+http://www.strangelove.nl/cases/slimleren
 </ul>
 
-<h3>Companies</h3>
-<ul>
-<li><a href="http://www.ueno.co">UENO</a></li>
-<li><a href="http://fantasy.co/legacy/google-ramayana/">Fantasy Interactive</a></li>
-<li><a href="http://www.dogstudio.be/contact">Dog Belgium</a></li>
-<li><a href="http://domanistudios.com/work/">domainastudios</a></li>
-<li><a href="http://sfcd.com">SFCD (super vette website) </a></li>
-<li><a href="http://www.wearecollins.com/work/">Brian Collin's agency </a></li>
-<li><a href="http://pollenlondon.com/interactive-web-design">Pollen London</a></li>
-<li><a href="  http://www.buildinamsterdam.com/">Buildinamsterdam</a></li>
- </ul>
-
-<h3>Designers</h3>
-<h6>UI Designer</h6>
-<ul>
-<li><a href="https://dribbble.com/kerem">Kerem Seuer</a></li>
-</ul>
-
-</ul>
-<h3>Artists</h3>
-<ul>
-<li><a href="http://yukari-art.jp/en/shintaro_ohata_en">Shintaro Ohata</a></li>
-</ul>
-<ul>
-<li><a href="http://www.signalnoise.com">James White</a></li>
-</ul>
-
-
-</ul>
 <h3>Projects</h3>
-<h6>Innovation</h6>
 <ul>
 <li><a href="https://www.kickstarter.com/projects/whitestonemusic/this-is-what-music-will-look-like-in-the-future">Whitestone (the first interactive music platform)</a></li>
 </ul>
@@ -150,11 +153,14 @@ Nicholas Jolly
 
 </ul>
 
-<h3>Books</h3>
+<h3>Reads</h3>
+<h6>Books</h6>
+<ul>
 <li><a href="
 http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campaign=acquisition_studio">Studio UXPIN (boeken enzo!)</a></li>
-
-
+<h6>Articles</h6>
+<li><a href="https://interfacelovers.com/">Interface lovers</a></li>
+</ul>
 
 
 <h3>Meetups</h3>
