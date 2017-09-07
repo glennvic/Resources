@@ -2,14 +2,14 @@
 <h2>Introduction</h2>
 <p></p>
 
-<h4>Icons</h4>
+<h3>Icons</h3>
 <ul>
 <li><a href="https://fonticons.com/sets">Fonticons</a></li>
 <li><a href="http://www.iconsfeed.com">Iconsfeed.(appstore icons)</a></li>
 <li><a href="http://www.entypo.com">Entypo/a></li>
 </ul>
 
-<h4>Fonts</h4>
+<h3>Fonts</h3>
 <h6>Resources</h6>
 <ul>
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
@@ -58,7 +58,7 @@
 <li>Vollkorn</li>
 
 
-<h4>Inspiration</h4>
+<h3>Inspiration</h3>
 <h6>Websites</h6>
 <ul>
 <li><a href="http://christopherireland.net/motion/canon-light-awards">Christopher Ireland (motion and photographer)</a></li>
@@ -87,13 +87,9 @@ http://ffffound.com/http://ffffound.com/
 http://lookslikegooddesign.com/http://lookslikegooddesign.com/
 https://www.nowness.com/https://www.nowness.com/
 http://99u.com/http://99u.com/
-
-
-
-
 </ul>
 
-<h4>Companies</h4>
+<h3>Companies</h3>
 <ul>
 <li><a href="http://www.ueno.co">UENO</a></li>
 <li><a href="http://fantasy.co/legacy/google-ramayana/">Fantasy Interactive</a></li>
@@ -101,19 +97,18 @@ http://99u.com/http://99u.com/
 <li><a href="http://domanistudios.com/work/">domainastudios</a></li>
 <li><a href="http://sfcd.com">SFCD (super vette website) </a></li>
 <li><a href="http://www.wearecollins.com/work/">Brian Collin's agency </a></li>
+<li><a href="http://pollenlondon.com/interactive-web-design">Pollen London</a></li>
+<li><a href="  http://www.buildinamsterdam.com/">Buildinamsterdam</a></li>
+ </ul>
 
-
-</ul>
-
-
-<h4>Designers</h4>
+<h3>Designers</h3>
 <h6>UI Designer</h6>
 <ul>
 <li><a href="https://dribbble.com/kerem">Kerem Seuer</a></li>
 </ul>
 
 </ul>
-<h4>Artists</h4>
+<h3>Artists</h3>
 <ul>
 <li><a href="http://yukari-art.jp/en/shintaro_ohata_en">Shintaro Ohata</a></li>
 </ul>
@@ -123,7 +118,7 @@ http://99u.com/http://99u.com/
 
 
 </ul>
-<h4>Projects</h4>
+<h3>Projects</h3>
 <h6>Innovation</h6>
 <ul>
 <li><a href="https://www.kickstarter.com/projects/whitestonemusic/this-is-what-music-will-look-like-in-the-future">Whitestone (the first interactive music platform)</a></li>
@@ -133,12 +128,12 @@ Shintaro Ohata
 Nicholas Jolly
 
 </ul>
-<h4>Tools</h4>
+<h3>Tools</h3>
 <ul>
 <li><a href="http://colorhunt.co/popular">Color hunt (daily color palettes)</a></li>
 
 </ul>
-<h4>Talks and Videos</h4>
+<h3>Talks and Videos</h3>
 <h6>Platforms</h6>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=axkPXCNjOh8">Create an immersive userinterface</a></li>
@@ -155,14 +150,14 @@ Nicholas Jolly
 
 </ul>
 
-<h4>Books</h4>
+<h3>Books</h3>
 <li><a href="
 http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campaign=acquisition_studio">Studio UXPIN (boeken enzo!)</a></li>
 
 
 
 
-<h4>Meetups</h4>
+<h3>Meetups</h3>
 <h6>Hackaton</h6>
 <ul>
 <li><a href="https://uideo.net">uideo</a></li>
@@ -174,7 +169,7 @@ http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campai
 </ul>
 
 
-<h4>Conferences</h4>
+<h3>Conferences</h3>
 <ul>
 <li><a href="http://www.skillcity.nl/agenda/5888-innovation-circle-71/">Skillcity (organisatie omtrent ICT bedrijven) </a></li>
 </ul>
