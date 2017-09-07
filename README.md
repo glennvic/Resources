@@ -10,7 +10,7 @@
 </ul>
 
 <h3>Fonts</h3>
-<h6>Resources</h6>
+<h5>Resources</h5>
 <ul>
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
 <li><a href="https://dribbble.com/ruslanlatypov"> Ruslanlatypov (mockups) </a></li>
@@ -61,7 +61,7 @@
 <li>Vollkorn</li>
 </ul>
 
-<h3>Inspiration</h3>
+<h5>Inspiration</h5>
 <h3>Companies</h3>
 <ul>
 <li><a href="http://www.ueno.co">UENO</a></li>
@@ -69,6 +69,7 @@
 <li><a href="http://www.dogstudio.be/contact">Dog Belgium</a></li>
 <li><a href="http://domanistudios.com/work/">domainastudios</a></li>
 <li><a href="http://sfcd.com">SFCD (super vette website) </a></li>
+<li><a href="http://sagmeisterwalsh.com/work/">Sagmeister and Walsh</a></li>       
 <li><a href="http://www.wearecollins.com/work/">Brian Collin's agency </a></li>
 <li><a href="http://pollenlondon.com/interactive-web-design">Pollen London</a></li>
 <li><a href="http://www.buildinamsterdam.com/">Buildinamsterdam</a></li>
@@ -83,11 +84,11 @@
 <li><a href="http://www.markenmarten.nl/">Mark en Marten</a></li> 
 <li><a href="https://awkward.co/">Awkward</a></li>   
 <li><a href="https://bravoure.nl/cases/">Bravoure</a></li>   
-<li><a href="http://www.wk.com">Wieden+Kennedy</a></li>     
-
-
-
+<li><a href="http://www.wk.com">Wieden+Kennedy</a></li>
+<li><a href="https://www.achtung.nl">Achtung</a></li>     
   
+ 
+
 </ul>
 
 <h3>Designers</h3>
@@ -148,6 +149,8 @@ http://alisharaf.com/
 
 https://www.paard.nl
 
+http://www.stinkstudios.com/work/va-old-marble-new
+
 </ul>
 
 <h3>Projects</h3>
@@ -191,7 +194,7 @@ http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campai
 </ul>
 
 
-<h3>Meetups</h3>
+<h3>Meetups, Programs and comeptetions</h3>
 <h6>Hackaton</h6>
 <ul>
 <li><a href="https://hackathonoverzicht.nl/">Hackaton Overzicht</a></li>
@@ -206,10 +209,13 @@ http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campai
 <li><a href="https://startupweekend.org/events?utf8=%E2%9C%93&q=Rotterdam%2C+Netherlands&button=">Startup Weekend </a></li>  
 </ul>
 
-
-
 <h3>Conferences</h3>
 <ul>
 <li><a href="http://www.skillcity.nl/agenda/5888-innovation-circle-71/">Skillcity (organisatie omtrent ICT bedrijven) </a></li>
 </ul>
 
+<h3>Programs</h3>
+<ul>
+<li><a href="http://thekennedys.nl/">The kennedys</a></li>
+<li><a href="https://www.hyperisland.com/">Hyper Island</a></li>  
+</ul>
