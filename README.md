@@ -14,11 +14,12 @@
 <ul>
 <li><a href="https://www.typewolf.com">Typewolf</a></li>
 <li><a href="https://dribbble.com/ruslanlatypov"> Ruslanlatypov (mockups) </a></li>
-</ul>
 <li><a href="http://webfieldmanual.com"> Webfieldmanual (all sorts)</a></li>
 </ul>
+
 <h5>Awesome Fonts</h5>
 <h6>Sans-serif</h6>
+<ul>
 <li>Mark</li>
 <li>Neutraface text</li>
 <li>GT Walsheim</li>
@@ -45,9 +46,11 @@
 <li>Proxima Nova</li>
 <li>Ubuntu</li>
 <li><b>Univers</b></li>
+</ul>
 
 
 <h6>Serif</h6>
+<ul>
 <li>Amasis</li>
 <li>Baskerville MT STD</li>
 <li>Amasis</li>
@@ -56,7 +59,7 @@
 <li>Roboto Slab</li>
 <li>Times LT STD</li>
 <li>Vollkorn</li>
-
+</ul>
 
 <h3>Inspiration</h3>
 <h3>Companies</h3>
@@ -75,7 +78,13 @@
 <li><a href="https://www.awwwards.com/resn/">Resn</a></li>
 <li><a href="https://yummygum.com/">Yummygum</a></li>
 <li><a href="http://tribalworldwide.com/portfolio/">Tribal ddb</a></li>
-<li><a href="http://tribalworldwide.com/portfolio/">Tribal ddb</a></li>
+<li><a href="http://sa-studio.fr/works">Sa-studio</a></li>
+<li><a href=" https://www.vruchtvlees.com/project/3/de-munt-la-monnaie#strategie">Vruchtvlees</a></li>   
+<li><a href="http://www.markenmarten.nl/">Mark en Marten</a></li> 
+<li><a href="https://awkward.co/">Awkward</a></li>   
+<li><a href="https://bravoure.nl/cases/">Awkward</a></li>   
+
+  
 </ul>
 
 <h3>Designers</h3>
@@ -89,6 +98,8 @@
 <ul>
 <li><a href="http://yukari-art.jp/en/shintaro_ohata_en">Shintaro Ohata</a></li>
 <li><a href="http://www.signalnoise.com">James White</a></li>
+<li><a href="http://yukari-art.jp/en/artists/shintaro-ohata">Shintaro Ohata</a></li>
+<li><a href="http://nicolasjolly.net/">Nicholas Jolly</a></li>
 </ul>
 
 <h6>Websites</h6>
@@ -111,15 +122,29 @@
 <li><a href="http://www.kinetura.com/products/detail/new-york"> Kinetura</a></li>
 <li><a href="https://discovery.wisc.edu/about"> Discovery Building/a></li>
 https://niice.co/?search=https://niice.co/?search=
+  
 http://designspiration.net/http://designspiration.net/
+
 https://nl.pinterest.com/https://nl.pinterest.com/
+
 http://creativity-online.com/http://creativity-online.com/
+
 http://codepen.io/http://codepen.io/
+
 http://ffffound.com/http://ffffound.com/
+
 http://lookslikegooddesign.com/http://lookslikegooddesign.com/
+
 https://www.nowness.com/https://www.nowness.com/
+
 http://99u.com/http://99u.com/
+
 http://www.strangelove.nl/cases/slimleren
+
+http://alisharaf.com/
+
+https://www.paard.nl
+
 </ul>
 
 <h3>Projects</h3>
