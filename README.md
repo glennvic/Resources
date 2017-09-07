@@ -82,7 +82,10 @@
 <li><a href=" https://www.vruchtvlees.com/project/3/de-munt-la-monnaie#strategie">Vruchtvlees</a></li>   
 <li><a href="http://www.markenmarten.nl/">Mark en Marten</a></li> 
 <li><a href="https://awkward.co/">Awkward</a></li>   
-<li><a href="https://bravoure.nl/cases/">Awkward</a></li>   
+<li><a href="https://bravoure.nl/cases/">Bravoure</a></li>   
+<li><a href="http://www.wk.com">Wieden+Kennedy</a></li>     
+
+
 
   
 </ul>
@@ -191,13 +194,18 @@ http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campai
 <h3>Meetups</h3>
 <h6>Hackaton</h6>
 <ul>
+<li><a href="https://hackathonoverzicht.nl/">Hackaton Overzicht</a></li>
 <li><a href="https://uideo.net">uideo</a></li>
 <li><a href="http://www.iiaw.nl/iiaw/">Innovation in a week (Oktober) </a></li>
 <li><a href="http://fusehack.com/">Fusehack (November) </a></li>
 <li><a href="http://www.scribd.com/doc/243410656/Permanent-Beta-Kennisdeeltjesversneller-voor-sociale-innovaties"> Permanent beta</a></li>
 <li><a href="http://www.offf.ws/info/">IFFO  (November) </a></li>
 <li><a href="http://fusehack.com/">Fusehack (November) </a></li>
+<li><a href="https://www.adehack.com/">Fusehack (October) </a></li>
+<li><a href="https://www.dhh2017.nl/aanmelden">Dutch Health Hackaton (September) </a></li>
+<li><a href="https://startupweekend.org/events?utf8=%E2%9C%93&q=Rotterdam%2C+Netherlands&button=">Startup Weekend </a></li>  
 </ul>
+
 
 
 <h3>Conferences</h3>
