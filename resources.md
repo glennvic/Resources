@@ -171,29 +171,26 @@ Nicholas Jolly
 <h3>Talks and Videos</h3>
 <h6>Platforms</h6>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=axkPXCNjOh8">Create an immersive userinterface</a></li>
-</ul>
-
-<h6>Platforms</h6>
-<ul>
 <li><a href="https://uideo.net">uideo</a></li>
 </ul>
 
 <h6>Talks</h6>
 <ul>
+<li><a href="https://www.youtube.com/watch?v=axkPXCNjOh8">Create an immersive userinterface</a></li>
 <li><a href="https://www.youtube.com/watch?v=3X6SdMRag-Y"> A brief bief</a></li>
 <li><a href="https://www.youtube.com/watch?v=Qby0ed4aVpo"> John Cleese on creativity</a></li>
 <li><a href="http://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness"> Robert Waldinger, what makes a good life</a></li>
 </ul>
 
 <h3>Reads</h3>
+<h6>Articles</h6>
+<li><a href="https://interfacelovers.com/">Interface lovers</a></li>
+</ul>
 <h6>Books</h6>
 <ul>
 <li><a href="
 http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campaign=acquisition_studio">Studio UXPIN (boeken enzo!)</a></li>
-<h6>Articles</h6>
-<li><a href="https://interfacelovers.com/">Interface lovers</a></li>
-</ul>
+<ul>
 
 
 <h3>Meetups, Programs and comeptetions</h3>
