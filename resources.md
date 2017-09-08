@@ -204,7 +204,6 @@ http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campai
 <li><a href="http://fusehack.com/">Fusehack (November) </a></li>
 <li><a href="http://www.scribd.com/doc/243410656/Permanent-Beta-Kennisdeeltjesversneller-voor-sociale-innovaties"> Permanent beta</a></li>
 <li><a href="http://www.offf.ws/info/">IFFO  (November) </a></li>
-<li><a href="http://fusehack.com/">Fusehack (November) </a></li>
 <li><a href="https://www.adehack.com/">Fusehack (October) </a></li>
 <li><a href="https://www.dhh2017.nl/aanmelden">Dutch Health Hackaton (September) </a></li>
 <li><a href="https://startupweekend.org/events?utf8=%E2%9C%93&q=Rotterdam%2C+Netherlands&button=">Startup Weekend </a></li>  
