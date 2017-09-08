@@ -214,6 +214,11 @@ http://studio.uxpin.com/?utm_source=facebook_cpc&utm_medium=subko_cpc&utm_campai
 <ul>
 <li><a href="http://www.skillcity.nl/agenda/5888-innovation-circle-71/">Skillcity (organisatie omtrent ICT bedrijven) </a></li>
 <li><a href="http://www.kikk.be/">Kikk</a></li>  
+<li><a href="http://www.whatdesigncando.com/">Whatdesigncando</a></li>  
+<li><a href="https://thenextweb.com/conference/">Thenextweb</a></li>    
+<li><a href="https://tedxrotterdam.com/">TedxRotterdam</a></li>      
+  
+  
 </ul>
 
 <h3>Programs</h3>
