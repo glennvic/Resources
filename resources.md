@@ -92,9 +92,10 @@
 </ul>
 
 <h3>Designers</h3>
-<h6>UI Designer</h6>
 <ul>
 <li><a href="https://dribbble.com/kerem">Kerem Seuer</a></li>
+<li><a href="https://timothyachumba.com/projects/phaedis">Timothy Achumba</a></li>  
+  
 </ul>
 
 
