@@ -172,6 +172,10 @@ Nicholas Jolly
 <h6>Platforms</h6>
 <ul>
 <li><a href="https://uideo.net">uideo</a></li>
+<li><a href="  https://www.designbetter.co/">Invision's designbetter.co</a></li>  
+<li><a href="https://interfacelovers.com/">Interface lovers</a></li>
+<li><a href="https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw">High Resolution</a></li>  
+  
 </ul>
 
 <h6>Talks</h6>
