@@ -105,6 +105,7 @@
 <li><a href="http://www.signalnoise.com">James White</a></li>
 <li><a href="http://yukari-art.jp/en/artists/shintaro-ohata">Shintaro Ohata</a></li>
 <li><a href="http://nicolasjolly.net/">Nicholas Jolly</a></li>
+  <li><a href="http://www.zwartekoffie.com/about/">Timo Kuilder</a></li>
 </ul>
 
 <h6>Websites</h6>
