@@ -86,8 +86,10 @@
 <li><a href="https://bravoure.nl/cases/">Bravoure</a></li>   
 <li><a href="http://www.wk.com">Wieden+Kennedy</a></li>
 <li><a href="https://www.achtung.nl">Achtung</a></li>     
-  
- 
+<li><a href="http://www.basicagency.com/">Basic Agency</a></li>   
+<li><a href="https://immersive-g.com/#/">Immersive G</a></li>   
+<li><a href="http://www.instrument.com/work/">Instrument</a></li>   
+
 
 </ul>
 
