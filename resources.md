@@ -186,6 +186,7 @@ Nicholas Jolly
 <li><a href="  https://www.designbetter.co/">Invision's designbetter.co</a></li>  
 <li><a href="https://interfacelovers.com/">Interface lovers</a></li>
 <li><a href="https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw">High Resolution</a></li>  
+<li><a href="http://99u.adobe.com/videos/55958/ian-spalter-why-designers-should-work-like-comedians">Why designers should work like comedians</a></li>    
   
 </ul>
 
