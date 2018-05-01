@@ -169,6 +169,8 @@ http://torquetorque.net/
 
 http://www.richgilligan.com/work/burnside/
 
+http://www.studiosix.nz/work/
+
 </ul>
 
 <h3>Projects</h3>
