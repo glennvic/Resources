@@ -90,7 +90,8 @@
 <li><a href="https://immersive-g.com/#/">Immersive G</a></li>   
 <li><a href="http://www.instrument.com/work/">Instrument</a></li>   
 <li><a href="https://zurb.com/">zurb</a></li>   
- <li><a href="http://www.eiga.de/work/">EIGA</a></li>    
+<li><a href="http://www.eiga.de/work/">EIGA</a></li>    
+<li><a href="https://packlane.com/">Packlane</a></li>    
   
   
 
