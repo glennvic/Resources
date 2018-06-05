@@ -92,8 +92,8 @@
 <li><a href="https://zurb.com/">zurb</a></li>   
 <li><a href="http://www.eiga.de/work/">EIGA</a></li>    
 <li><a href="https://packlane.com/">Packlane</a></li>    
-  
-  
+<li><a href="https://www.handsome.is/">Handsome</a></li>    
+<li><a href=http://thisalso.com/projects/google-identity>This also</a></li>    
 
 </ul>
 
