@@ -95,6 +95,7 @@
 <li><a href="https://packlane.com/">Packlane</a></li>    
 <li><a href="https://www.handsome.is/">Handsome</a></li>    
 <li><a href=http://thisalso.com/projects/google-identity>This also</a></li>    
+<li><a href=https://www.pentagram.com/work/discipline/brand-identity>Pentagram</a></li>    
 
 </ul>
 
@@ -176,6 +177,8 @@ http://www.studiosix.nz/work/
 https://www.appntd.com/
 
 http://toyfight.co/who/
+
+
 
 
 </ul>
