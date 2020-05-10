@@ -96,6 +96,9 @@
 <li><a href="https://www.handsome.is/">Handsome</a></li>    
 <li><a href=http://thisalso.com/projects/google-identity>This also</a></li>    
 <li><a href=https://www.pentagram.com/work/discipline/brand-identity>Pentagram</a></li>    
+  https://locomotive.ca/en
+  https://immersive-g.com
+  
 
 </ul>
 
